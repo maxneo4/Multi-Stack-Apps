@@ -47,7 +47,7 @@ Misma app en diferentes tecnologias/lenguages
 
 ```json
 {
-    "uudis": [
+    "uuids": [
         "1dfdd6e1-adb5-4813-b3fe-452020f1875a", "5cbd6089-7e72-4dec-a8ba-fc7cb2b9ac17"
     ]
 }
